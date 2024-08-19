@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great idea! Adding an email form for chatting with the dinosaur.",
+        "message_id": "guest19082024184451",
+        "timestamp": "19082024184451",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add an email form to chat with the dinosaur",
         "message_id": "guest19082024184451",
