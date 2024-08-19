@@ -18,5 +18,11 @@
         "content": "Great idea! I will add an image of a dinosaur to the project.",
         "timestamp": "19082024184157",
         "message_id": "guest19082024184156"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to be more realistic or cartoonish in style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Should the dinosaur image be featured prominently as a full-page background, or as an embedded image within the content?\", \"option1\": \"Full-page background\", \"option2\": \"Embedded within the content\"}], \"input_token_count\": 291, \"output_token_count\": 94, \"time_taken\": \"0:00:04.523130\"}",
+        "timestamp": "19082024184202",
+        "message_id": "guest19082024184156"
     }
 ]
