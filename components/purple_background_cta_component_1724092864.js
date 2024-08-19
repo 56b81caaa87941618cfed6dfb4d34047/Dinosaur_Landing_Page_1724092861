@@ -26,15 +26,32 @@ Vue.component("purple_background_cta_component_1724092864", {
                     <div class="flex" id="content-title-container"><h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60"> Explore the Prehistoric World</h2></div>
                     <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">Journey back in time and discover the fascinating realm of dinosaurs. From towering T-Rexes to majestic Brachiosaurus, our interactive experience brings these ancient creatures to life.</p></div>
                     <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dinosaur_Landing_Page_1724092861/main/images/bdecf2bad48e4177a5cfd6afa1fd5c91.jpeg" alt="Dinosaur Adventure" class="mb-8 mx-auto rounded-lg" />
+                    <form @submit.prevent="submitForm" class="mb-8">
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <input v-model="email" type="email" placeholder="Enter your email" class="flex-1 px-4 py-2 rounded-lg border border-purple-300 focus:outline-none focus:ring-2 focus:ring-purple-500" required>
+                            <button type="submit" class="px-6 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition duration-300">Chat with Dino</button>
+                        </div>
+                    </form>
                     <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></a>
                 </div>
             </div>
         </div>
     </section>`,
-        data() {
-            return {
-                expanded: false, 
-                tab: null,
-            };
-        },
+    data() {
+        return {
+            expanded: false,
+            tab: null,
+            email: '',
+        };
+    },
+    methods: {
+        // Start of submitForm method
+        submitForm() {
+            // Here you would typically send the email to your backend
+            console.log('Form submitted with email:', this.email);
+            // Reset the form
+            this.email = '';
+        }
+        // End of submitForm method
+    },
     });
