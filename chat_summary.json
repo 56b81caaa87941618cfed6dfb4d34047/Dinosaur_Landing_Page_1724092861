@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a carousel for multiple dinosaur images\", \"checked\": true}, {\"feature\": \"Implement a 'Dinosaur of the Day' feature with daily updated images and facts\", \"checked\": false}, {\"feature\": \"Introduce an interactive 'Guess the Dinosaur' game with hints and images\", \"checked\": false}, {\"feature\": \"Enable user submissions for dinosaur images with a voting system for the best submission each month\", \"checked\": false}, {\"feature\": \"Provide detailed information cards for each dinosaur image including habitat, diet, and era\", \"checked\": true}], \"input_token_count\": 290, \"output_token_count\": 130, \"time_taken\": \"0:00:05.101508\"}",
+        "message_id": "guest19082024184337",
+        "timestamp": "19082024184343",
+        "component_file_name": "purple_background_cta_component_1724092864",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the new dinosaur image to have a specific setting or background?\", \"option1\": \"Yes, I would like it to have a natural habitat background.\", \"option2\": \"No, a simple or plain background would be fine.\"}, {\"question 2\": \"Do you have a specific dinosaur in mind for the new image?\", \"option1\": \"Yes, I have a specific dinosaur in mind.\", \"option2\": \"No, any dinosaur different from the current one will do.\"}], \"input_token_count\": 336, \"output_token_count\": 114, \"time_taken\": \"0:00:04.513571\"}",
+        "message_id": "guest19082024184337",
+        "timestamp": "19082024184343",
+        "component_file_name": "purple_background_cta_component_1724092864",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'll change the image to a different dinosaur.",
         "message_id": "guest19082024184337",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Great idea! I will add an image of a dinosaur to the project.",
-        "message_id": "guest19082024184156",
-        "timestamp": "19082024184157",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Add an image of a dinosaur",
-        "message_id": "guest19082024184156",
-        "timestamp": "19082024184157",
-        "component_file_name": "purple_background_cta_component_1724092864",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "19082024184337",
+        "content": "The user requested the AI assistant to add an image of a dinosaur to the project, to which the AI responded positively, acknowledging it as a great idea. However, the AI also asked the user for more details about the project to better understand what the image should entail. The conversation highlights the user's initial request and the AI's willingness to assist while seeking clarification.",
+        "timestamp": "19082024184343",
         "message_id": "guest19082024184337"
     }
 ]
