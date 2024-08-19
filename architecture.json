@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nchange the image to a steggasorous"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Add an image of a dinosaur\nAI: Great idea! I will add an image of a dinosaur to the project.\nUser: change the image to a steggasorous\nAI: On it, changing the image to a stegosaurus.\n\nThis is the user's current request of changes to be made:\nchange the image to a different dinosaur"
     }
 ]
