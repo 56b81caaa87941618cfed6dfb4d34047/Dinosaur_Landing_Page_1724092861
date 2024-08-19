@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the email form to be embedded directly on the page or appear as a pop-up when the user interacts with a specific element?\", \"option1\": \"Embedded directly on the page\", \"option2\": \"Appear as a pop-up\"}, {\"question 2\": \"Should the email form be straightforward with just email and message fields, or do you want additional fields such as name, subject, or custom message templates?\", \"option1\": \"Just email and message fields\", \"option2\": \"Additional fields like name, subject, or custom templates\"}], \"input_token_count\": 273, \"output_token_count\": 127, \"time_taken\": \"0:00:04.318114\"}",
+        "message_id": "guest19082024184451",
+        "timestamp": "19082024184457",
+        "component_file_name": "purple_background_cta_component_1724092864",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Responsive navbar with dinosaur-themed links\", \"checked\": true}, {\"feature\": \"Dinosaur fact section that updates daily\", \"checked\": false}, {\"feature\": \"Interactive 'Meet the Dinosaurs' gallery with hover effects\", \"checked\": true}, {\"feature\": \"Dinosaur-themed contact form aside from the email form\", \"checked\": true}, {\"feature\": \"Real-time visitor counter to show the popularity of the site\", \"checked\": false}, {\"feature\": \"Footer with social media links in dinosaur foot shape buttons\", \"checked\": true}], \"input_token_count\": 227, \"output_token_count\": 128, \"time_taken\": \"0:00:03.081739\"}",
         "message_id": "guest19082024184451",
