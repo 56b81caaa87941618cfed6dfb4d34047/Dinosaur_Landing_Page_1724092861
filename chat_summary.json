@@ -36,5 +36,11 @@
         "content": "change the image to a steggasorous",
         "timestamp": "19082024184234",
         "message_id": "guest19082024184234"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "On it, changing the image to a stegosaurus.",
+        "timestamp": "19082024184234",
+        "message_id": "guest19082024184234"
     }
 ]

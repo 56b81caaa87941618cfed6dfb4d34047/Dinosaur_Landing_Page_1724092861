@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "On it, changing the image to a stegosaurus.",
+        "message_id": "guest19082024184234",
+        "timestamp": "19082024184234",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a steggasorous",
         "message_id": "guest19082024184234",
