@@ -25,6 +25,7 @@ Vue.component("purple_background_cta_component_1724092864", {
                     <div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">Roar into Adventure with Dinosaurs</div></div>
                     <div class="flex" id="content-title-container"><h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60"> Explore the Prehistoric World</h2></div>
                     <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">Journey back in time and discover the fascinating realm of dinosaurs. From towering T-Rexes to majestic Brachiosaurus, our interactive experience brings these ancient creatures to life.</p></div>
+                    <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dinosaur_Landing_Page_1724092861/main/images/bdecf2bad48e4177a5cfd6afa1fd5c91.jpeg" alt="Dinosaur Adventure" class="mb-8 mx-auto rounded-lg" />
                     <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></a>
                 </div>
             </div>
@@ -37,4 +38,3 @@ Vue.component("purple_background_cta_component_1724092864", {
             };
         },
     });
-                    
