@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add interactive dinosaur timeline to explore different species\", \"checked\": false}, {\"feature\": \"Incorporate dinosaur sound effects button for an immersive experience\", \"checked\": false}, {\"feature\": \"Embed a 3D model viewer for the Stegosaurus with zoom and rotate functionalities\", \"checked\": true}, {\"feature\": \"Include a 'Did You Know?' facts section about Stegosaurus\", \"checked\": true}, {\"feature\": \"Add visitor comments and ratings section on dinosaurs\", \"checked\": false}, {\"feature\": \"Implement dark/light mode for user comfort\", \"checked\": false}], \"input_token_count\": 227, \"output_token_count\": 137, \"time_taken\": \"0:00:04.341255\"}",
         "timestamp": "19082024184239",
         "message_id": "guest19082024184234"
+    },
+    {
+        "role": "user",
+        "content": "change the image to a different dinosaur",
+        "timestamp": "19082024184337",
+        "message_id": "guest19082024184337"
     }
 ]
