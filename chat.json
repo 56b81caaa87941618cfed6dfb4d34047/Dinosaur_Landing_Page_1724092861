@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add an image of a dinosaur",
+        "message_id": "guest19082024184156",
+        "timestamp": "19082024184157",
+        "component_file_name": "purple_background_cta_component_1724092864",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
