@@ -42,5 +42,11 @@
         "content": "On it, changing the image to a stegosaurus.",
         "timestamp": "19082024184234",
         "message_id": "guest19082024184234"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific Stegosaurus image you would like to use, or should we select one based on a certain style or criteria?\", \"option1\": \"Yes, I will provide the specific image.\", \"option2\": \"No, please select one based on realistic illustrations.\"}, {\"question 2\": \"Should the new Stegosaurus image replace an existing image, or is it to be added as an additional image on the page?\", \"option1\": \"Replace an existing image.\", \"option2\": \"Add as an additional image.\"}], \"input_token_count\": 273, \"output_token_count\": 124, \"time_taken\": \"0:00:03.974997\"}",
+        "timestamp": "19082024184239",
+        "message_id": "guest19082024184234"
     }
 ]
